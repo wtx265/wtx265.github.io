@@ -5,6 +5,9 @@
 
 #main-nav > a {
     padding: 0px 50px;
+    margin: 5px 20px;
+    background-color: lightseagreen;
+    color: whitesmoke;
 }
 
 header {
