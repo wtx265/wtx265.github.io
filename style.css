@@ -1,15 +1,14 @@
 #main-nav {
     width: auto;
-    height: 60px;
-    align-items: center;
-    background-color: darkcyan;
-    align-self: center;
+    padding: 50px;
 }
 
 header {
-    margin: 5px 10px;
+    margin: 2px 10px;
     width: auto;
     padding: 10px;
+    height: 100px;
+    background-color: darkcyan;
 }
 
 #main-div {
@@ -19,7 +18,7 @@ header {
     background-color: cadetblue;
     padding: 10px;
     width: auto;
-    margin: 0 30px;
+    margin: 0px 30px;
 }
 
 footer {
@@ -27,5 +26,5 @@ footer {
     height: 100px;
     padding: 10px;
     background-color: cornflowerblue;
-    margin: 5px 30px;
+    margin: 2px 30px;
 }
