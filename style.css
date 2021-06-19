@@ -28,6 +28,20 @@ header {
     margin: 0px 30px;
 }
 
+#side-left {
+    width: 100px;
+    height: auto;
+    background-color: mediumpurple;
+    margin-left: 0px;
+}
+
+#side-left {
+    width: 100px;
+    height: auto;
+    background-color: mediumpurple;
+    margin-right: 0px;
+}
+
 footer {
     width: auto;
     height: 100px;
